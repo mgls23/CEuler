@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Windows Build
+*.pdb
+*.ilk
+
+# MS Build Stuff
+out
+
+# Visual Studio Code
+.vs
