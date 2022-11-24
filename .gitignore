@@ -40,3 +40,6 @@ out
 
 # Visual Studio Code
 .vs
+
+# Visual Studio Build
+x64
